@@ -8,7 +8,6 @@ int main(int argc, char* argv[]) {
 
     int ages[agesArraySize] = { 27, 30 };
 
-
     cout << "My age is: " << calcAddition(ages[0], ages[1]) << endl;
     return 0;
 }
